@@ -25,7 +25,7 @@ This comprehensive portfolio project showcases the skills of a data analyst thro
 ### How to Use:
 1. Install MySQL and Power BI Desktop if not already installed.
 2. Clone or download the repository to your local machine.
-3. Execute SQL queries provided in the 'Scripts' folder to clean and process the data in MySQL.
+3. Execute SQL queries provided in the 'MySQL Scripts' folder to clean and process the data in MySQL.
 4. Import the cleaned dataset into Power BI Desktop.
 5. Use Power Query Editor to perform additional data manipulation and transformation tasks.
 6. Design the visualization dashboard using Power BI visuals and publish the report.
@@ -40,3 +40,4 @@ This comprehensive portfolio project showcases the skills of a data analyst thro
 Contributions and feedback are welcome! If you have suggestions for improvements or spot any issues, feel free to raise an issue or submit a pull request.
 
 Unlock actionable insights from pizza sales data with this comprehensive data analyst portfolio project!
+
